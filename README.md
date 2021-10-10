@@ -15,5 +15,9 @@ This is an example of including code using Gist
 ### Colab Example
 This is the [notebook](https://github.com/machinatoonist/technical-discussion/blob/main/technical_docs.ipynb)
 
+### Include images using links
+In this case I am using an image contained in a comment on the issues for this repo.
+https://github.com/machinatoonist/technical-discussion/issues/1#issuecomment-939544420
+
 
 
